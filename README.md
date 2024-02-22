@@ -40,6 +40,17 @@ pip install gspread oauth2client
    - Soon after creating your service account, you will be taken to this page.
      ![image](https://github.com/akarsh0913/Scraped-GoogleSheets/assets/134067749/fe1aadd7-8f03-4187-a2e6-1709f9ecaa48)
    - Click on the email that's displayed in the "Email" section. (<i>this would be different for you</i>)
+   - Head over to the "Keys" tab and click on "Add Key".
+   - This will open a drop-down list. Click on "Create New Key".
+     ![image](https://github.com/akarsh0913/Scraped-GoogleSheets/assets/134067749/6316638f-cbb9-462f-8a88-db15f2c96432)
+   - Select "JSON" and click on "Create".
+     ![image](https://github.com/akarsh0913/Scraped-GoogleSheets/assets/134067749/2ca94761-5fe0-4f2f-9892-27454dcf85eb)
+   - After clicking on "Create", a JSON file would be downloaded that contains your credentials.
+
+### Importing Credentials in the Python Script
+
+- Rename the downloaded JSON file to `cred.json`.
+- Copy `cred.json` in the directory of the python script.
   
    
 

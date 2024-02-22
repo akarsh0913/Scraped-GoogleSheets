@@ -1,0 +1,120 @@
+{
+  "Tuesday": {
+    "1st": {
+      "A": {
+        "9 to 10": "Class 1",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class3"
+      },
+      "B": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 2"
+      },
+      "C": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class 2"
+      },
+      "D": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 1"
+      },
+      "E": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 2"
+      },
+      "F": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class3",
+        "11 to 12": "Class3"
+      },
+      "G": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class 1"
+      }
+    },
+    "2nd": {
+      "A": {
+        "9 to 10": "Class 1",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class3"
+      },
+      "B": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 2"
+      },
+      "C": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class 2"
+      },
+      "D": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 1"
+      },
+      "E": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 2"
+      },
+      "F": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class3",
+        "11 to 12": "Class3"
+      },
+      "G": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class 1"
+      }
+    },
+    "3rd": {
+      "A": {
+        "9 to 10": "Class x",
+        "10 to 11": "Class y",
+        "11 to 12": "Classz"
+      },
+      "B": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 2"
+      },
+      "C": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class 2"
+      },
+      "D": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 1"
+      },
+      "E": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 1",
+        "11 to 12": "Class 2"
+      },
+      "F": {
+        "9 to 10": "Class 2",
+        "10 to 11": "Class3",
+        "11 to 12": "Class3"
+      },
+      "G": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class 1"
+      },
+      "H": {
+        "9 to 10": "Class3",
+        "10 to 11": "Class 2",
+        "11 to 12": "Class 1"
+      }
+    }
+  }
+}

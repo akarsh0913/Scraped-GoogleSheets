@@ -8,6 +8,7 @@ Link to the file - `https://docs.google.com/spreadsheets/d/1zOnmh-CZXa5h978y9MnH
 ### Requirements:
 - Python Libraries - `json`, `gspread` and `oauth2client`
 - Google Service Account
+- Save `xlsx` file as `google sheets` file in drive.
 
 ### Install Python Libraries
 ```

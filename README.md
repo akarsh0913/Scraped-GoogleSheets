@@ -32,9 +32,7 @@ pip install gspread oauth2client
    - Go to IAM & Admin > Service Accounts.
    - Click on "Create service account".
    - Give your service account a descriptive name (e.g., "Sheets API Access") and an optional description.
-     
      ![image](https://github.com/akarsh0913/Scraped-GoogleSheets/assets/134067749/abc3b7fa-2f77-43d1-aa55-9de8e956452a)
-   
    - Click on "Create and Continue".
    - Click on "Done".
   

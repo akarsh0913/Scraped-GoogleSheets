@@ -35,6 +35,11 @@ pip install gspread oauth2client
      ![image](https://github.com/akarsh0913/Scraped-GoogleSheets/assets/134067749/abc3b7fa-2f77-43d1-aa55-9de8e956452a)
    - Click on "Create and Continue".
    - Click on "Done".
+
+5. Adding Keys:
+   - Soon after creating your service account, you will be taken to this page.
+     ![image](https://github.com/akarsh0913/Scraped-GoogleSheets/assets/134067749/fe1aadd7-8f03-4187-a2e6-1709f9ecaa48)
+   - Click on the email that's displayed in the "Email" section. (<i>this would be different for you</i>)
   
    
 

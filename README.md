@@ -17,21 +17,20 @@ pip install gspread oauth2client
 ### Google Service Account
 
 1. Go to the Google Cloud Console:
-
-Open the Google Cloud Console in your web browser: https://console.cloud.google.com/
+   Open the Google Cloud Console in your web browser: `https://console.cloud.google.com/`
 
 2. Select or Create a Project:
-
-If you already have a project for your application, select it from the dropdown menu in the top navigation bar.
-If you don't have a project, click on "Create project" and follow the instructions to create a new one.
+   - If you already have a project for your application, select it from the dropdown menu in the top navigation bar.
+   - If you don't have a project, click on "Create project" and follow the instructions to create a new one.
+     
 3. Enable the Google Sheets API:
-
-In the navigation menu, go to APIs & Services > Library.
-Search for "Google Sheets API" and click on it.
-Click on "Enable" to enable the API for your project.
+   - In the navigation menu, go to APIs & Services > Library.
+   - Search for "Google Sheets API" and click on it.
+   - Click on "Enable" to enable the API for your project.
+     
 4. Create a Service Account:
-
-Go to IAM & Admin > Service Accounts.
-Click on "Create service account".
-Give your service account a descriptive name (e.g., "Sheets API Access") and an optional description.
-Click on "Create and Continue".
+   - Go to IAM & Admin > Service Accounts.
+   - Click on "Create service account".
+   - Give your service account a descriptive name (e.g., "Sheets API Access") and an optional description.
+   - Click on "Create and Continue".
+   - Click on "Done".

@@ -1,2 +1,2 @@
 # Scraped-GoogleSheets
-A low-key script to scrape your favorite google sheet.
+This repository hands out a short but easy to grasp example for scraping data from google sheets.

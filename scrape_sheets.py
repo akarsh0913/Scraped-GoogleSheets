@@ -60,14 +60,3 @@ json_data = json.dumps(organized_data, indent=2)
 
 with open("org_sheets.json", 'w') as json_file:
     json_file.write(json_data)
-
-
-
-
-
-
-
-
-
-
-

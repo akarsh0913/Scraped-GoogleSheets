@@ -17,7 +17,7 @@ pip install gspread oauth2client
 ### Google Service Account
 
 1. Go to the Google Cloud Console:
-   Open the Google Cloud Console in your web browser: `https://console.cloud.google.com/`
+   - Open the Google Cloud Console in your web browser: `https://console.cloud.google.com/`
 
 2. Select or Create a Project:
    - If you already have a project for your application, select it from the dropdown menu in the top navigation bar.
